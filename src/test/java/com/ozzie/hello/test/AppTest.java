@@ -1,4 +1,4 @@
-package zobo.zobo;
+package com.ozzie.hello.test;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
